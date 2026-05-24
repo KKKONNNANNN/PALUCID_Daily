@@ -1,6 +1,7 @@
 name: Daily Asil Slack Report
 
-on: workflow_dispatch
+'on':
+  workflow_dispatch:
 
 jobs:
   test:
